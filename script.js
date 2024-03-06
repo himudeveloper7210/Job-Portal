@@ -17,6 +17,5 @@ function popup(){
     alert("Do not share your email password with anyone...Thank YOU!!");
 };
 
-// like heart  animation
 
 
